@@ -50,5 +50,5 @@ Ce projet a été une occasion passionnante pour moi de mettre en pratique mes c
 
 Pour toute question ou collaboration, n'hésitez pas à me contacter.
 
-**Développeur Front-End:** Votre Nom
-**Date:** Août 2023
+**Développeur Front-End:** Lucas O.
+**Date:** AVRIL 2023
